@@ -6,6 +6,7 @@ This repository contains data analytics using Power BI to solve the problems fac
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
+- [Key Learnings](#key-learnings)
 - [License](#license)
 
 ## Porject Description
@@ -39,6 +40,16 @@ Clone or download this repository to your local machine.
 
 ## Technologies Used
 - Power BI
+
+## Key Learnings
+1. Learnt about what real business data sets look like.
+2. Learnt about Visualising customer and agent behaviour.
+   Defining KPIs >Power BI Dashboard
+3. Learnt about Customer demographics and insights.
+   Defining KPIs >Power BI >Insights and Actions
+4. Learnt about Gender balance in the executive suite.
+   Calculating Measures >Defining KPIs >Power BI Dashboard >Insight and Actions
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
