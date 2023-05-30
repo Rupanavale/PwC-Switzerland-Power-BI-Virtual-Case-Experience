@@ -21,3 +21,9 @@ Possible KPIs include (to get you started, but not limited to):
 
 ## Dataset
 The dataset [Link](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Call-Centre-Trends/01%20Call-Center-Dataset%20(1).xlsx)
+
+## Visualization
+
+[Link](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Call-Centre-Trends/Call%20Center%20Solution%20Rupa%20Navale%20(1).pbix)
+
+![image](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/assets/109949193/30b6312d-e9d2-4d48-b2f8-e4c6e64b5868)
