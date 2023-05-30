@@ -1,56 +1,23 @@
 # PwC Switzerland Data Analytics Power BI Virtual Case Experience
-This repository contains data analytics using Power BI to solve the problems faced by PwC Switzerland.
 
-## Table of Contents
-- [Project Description](#project-dscription)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Key Learnings](#key-learnings)
-- [License](#license)
+## Task 1 : Call Centre Trends
+It’s omnipresent: telecom marketing. Better price here. Better service there. Best for small businesses here. Best for young urbanites there. But what do customers really want? Our client, a big telecom company needs to know. This email just arrived for you:
 
-## Porject Description
-PwC Switzerland envisions strategic and coordinated company-wide implementation of new technology that impacts all employees and existing processes. They aim to build innovative technology solutions that differentiate them from their competitors and digitise the business. Part of that included a strategic decision to invest in upskilling programmes so their people could learn how to use digital tools for data visualisation as well as automation, data cleansing and more.
+![image](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/assets/109949193/67c4c007-7d03-4d32-b34f-5b2e003e34a6)
 
-If their people could use these tools to solve common problems, they’d help us become more efficient and growth-oriented now and more innovative later in Business Services and beyond. Now, employees are learning to build bots – over 2,400 have been created so far – to automate workflows. They continue to invest to make processes more intuitive using machine learning, PowerBI and eventually artificial intelligence (AI). These are key to working faster and solving problems differently for themselves and their clients.
+Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
 
-They have given us three tasks to solve differnt problems. The tasks are as follwed:
+Possible KPIs include (to get you started, but not limited to):
 
-Task 1 : Call Centre Trends
+- Overall customer satisfaction
 
-Task 2 : Customer Retention
+- Overall calls answered/abandoned
 
-Task 3 : Diversity & Inclusion
+- Calls by time
 
-## Installation
-To run the Power BI Dashboard, follow these steps:
+- Average speed of answer
 
-Install Power BI Desktop, which can be downloaded from the official [Power BI website](https://app.powerbi.com/)
+- Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-Clone or download this repository to your local machine.
-
-[Git Clone](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/edit/main/README.md)
-
-## Usage
-1. Open Power BI Desktop.
-2. Open the project by selecting the .pbix file from the downloaded repository.
-3. Connect the dashboard to your dataset by importing the data or connecting to the data source.
-4. Explore the different visualizations and interact with the dashboard to analyze the data.
-5. Modify the dashboard as needed to suit your specific requirements and dataset.
-
-## Technologies Used
-- Power BI
-
-## Key Learnings
-1. Learnt about what real business data sets look like.
-2. Learnt about Visualising customer and agent behaviour.
-   Defining KPIs >Power BI Dashboard
-3. Learnt about Customer demographics and insights.
-   Defining KPIs >Power BI >Insights and Actions
-4. Learnt about Gender balance in the executive suite.
-   Calculating Measures >Defining KPIs >Power BI Dashboard >Insight and Actions
-
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
+## Dataset
+The dataset [Link](https://github.com/Rupanavale/PwC-Switzerland-Power-BI-Virtual-Case-Experience/blob/Call-Centre-Trends/01%20Call-Center-Dataset%20(1).xlsx)
